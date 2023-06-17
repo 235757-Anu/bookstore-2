@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+  html{
+
+      font-family: 'Poppins', sans-serif;
+
+  }
+
+h1{
+
+    padding: 5px;
+
+    display: flex;
+
+    justify-content: center;
+
+    color: black;
+
+    font-family: 'Poppins', sans-serif;
+
+    font-weight: bolder;
+
+}
+
+.body{
+            
+     
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("../../assets/6.jpg");
+    }
+
+
+
+
+
+
+ 
+

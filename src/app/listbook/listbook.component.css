@@ -1,0 +1,22 @@
+.c{
+    height: 450px;
+    overflow: auto;
+    width: 90%;
+}
+.scroll{
+    padding: 20px;
+}
+.listtgroup{
+    height: 12rem;
+}
+.listtgroup{
+    height: 12rem;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+
+}
+button{
+    margin-left: 5%;
+}

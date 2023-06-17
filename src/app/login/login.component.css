@@ -1,0 +1,204 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&family=Roboto:ital,wght@1,500&display=swap');
+
+body{
+
+    background-color: rgb(71, 71, 70);
+
+}
+
+.container {
+
+    height: 100vh;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+}
+
+.row{
+
+    width: 100vw;
+
+    height: 80vh;
+
+}
+
+h1{
+
+    font-size: 5vmax;
+
+    line-height: 1;
+
+    font-weight: 900;
+
+    color: white;
+
+  }
+
+  h3{
+
+    font-size: 8vmin;
+
+    display: flex;
+
+    justify-content: center;
+
+}
+
+input {
+
+    width: 70%;
+
+    padding: 10px;
+
+    margin: 45px 55px;
+
+    font-size: 20px;
+
+    border: none;
+
+    outline: none;
+
+    border-bottom: 2px solid #767677;
+
+   
+
+  }
+
+  input:focus{
+
+    box-shadow: none;
+
+    border-bottom: 3px solid black;
+
+  }
+
+  .inputs {
+
+    overflow: hidden;
+
+  }
+
+  p{
+
+        font-size: 15px;
+
+        color: black;
+
+        padding: 3%;
+
+        line-height: 2;
+
+        margin-left: 15%;
+
+  }
+
+  button{
+
+    background-color: black;
+
+    padding: 1.5rem 1.5rem;
+
+    border: none;
+
+    border-radius: 15px;
+
+    width: 30%;
+
+    color:white;
+
+    font-size: 1.25rem;
+
+    cursor: pointer;
+
+    transition: all .3s ease;
+
+    margin-left: 35%;
+
+}
+
+button:hover{
+
+  background-color:rgb(67, 67, 69);
+
+} */
+.body{
+            
+  /* background-image: url("assets/6.jpg"); */
+  background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("src/assets/6.jpg");
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.row{
+  width: 100vw;
+  height: 80vh;
+}
+
+h1{
+  font-size: 5vmax;
+  line-height: 1;
+  font-weight: 900;
+  color: white;
+}
+
+h3{
+  font-size: 8vmin;
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  width: 70%;
+  padding: 10px;
+  margin: 45px 55px;
+  font-size: 20px;
+ border-radius: 20px;
+  outline: none;
+  border-bottom: 2px solid #767677;
+}
+
+input:focus{
+  box-shadow: none;
+  border-bottom: 3px solid black;
+}
+
+.inputs {
+  overflow: hidden;
+}
+
+p{
+  font-size: 15px;
+  color: black;
+  padding: 3%;
+  line-height: 2;
+  margin-left: 15%;
+}
+
+button{
+  background-color: black;
+  padding: 1.5rem 1.5rem;
+  border: none;
+  border-radius: 15px;
+  width: 30%;
+  color:white;
+  font-size: 1.25rem;
+  cursor: pointer;
+  transition: all .3s ease;
+  margin-left: 35%;
+}
+
+button:hover{
+  background-color:rgb(67, 67, 69);
+}

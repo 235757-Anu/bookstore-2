@@ -1,0 +1,37 @@
+.body {
+    background-image: url("src/assets/9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .card {
+    margin-bottom: 20px;
+  }
+  .card img {
+    height: 200px;
+    object-fit: cover;
+  }
+  .card-title {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  .card-text {
+    margin-top: 10px;
+  }
+  .container {
+    padding-top: 10%;
+    padding-bottom: 15%;
+    opacity: 0.6;
+  }
+  .contain {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    opacity:0.4;
+  }
+  .text-container p {
+    color: white;
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }

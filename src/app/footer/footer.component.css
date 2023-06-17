@@ -1,0 +1,32 @@
+.body {
+    background-color: #000;
+    color: #fff;
+  }
+
+  .footer {
+    background-color: #000;
+    padding: 30px 0;
+  }
+
+  .footer-icons {
+    text-align: right;
+  }
+
+  .footer-icons a {
+    color: #fff;
+    font-size: 24px;
+    margin: 0 10px;
+  }
+
+  .contact-info {
+    margin-top: 20px;
+  }
+
+  .contact-icons {
+    color: #fff;
+    margin-right: 10px;
+  }
+
+  .text-muted {
+    color: #888;
+  }
